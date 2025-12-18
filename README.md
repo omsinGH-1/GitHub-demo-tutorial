@@ -2,3 +2,4 @@
 This is my first GitHub repository
 <br>
 Author - Om Singh
+Editing the new things in our repository
